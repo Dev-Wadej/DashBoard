@@ -5,6 +5,9 @@ import reportWebVitals from './reportWebVitals';
 import { ContextProvider } from './contexts/ContextProvider';
 import './index.css';
 
+// Link to deployed app
+// https://dashboard-shoppy.netlify.app/
+
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
   <React.StrictMode>
